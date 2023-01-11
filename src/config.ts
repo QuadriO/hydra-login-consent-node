@@ -334,10 +334,10 @@ const users: Array<User> = [
   },
   {
     id: 'mieter',
-    user_id: 'landlord',
+    user_id: 'mieter',
     salutation: "Herr",
     bpNumber: '5000203475',
-    roles: ['commune'],
+    roles: ['landlord'],
     given_name: 'Sach',
     family_name: 'Bearbeiter',
     phone: '123456789',
