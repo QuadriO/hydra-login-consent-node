@@ -348,6 +348,21 @@ const users: Array<User> = [
     }
   },
   {
+    id: 'human-landlord',
+    user_id: 'human-landlord',
+    salutation: "Herr",
+    bpNumber: '5000203475',
+    roles: ['landlord'],
+    given_name: 'Sach',
+    family_name: 'Bearbeiter',
+    phone: '123456789',
+    email: 'landlord@quadrio-dev-foerderlotse.de',
+    ext: {
+      roles: ['landlord'],
+      bpNumber: '5000203475'
+    }
+  },
+  {
     id: 'ute.boex@lra-bt.bayern.de',
     user_id: 'ute.boex@lra-bt.bayern.de',
     salutation: "Frau",
