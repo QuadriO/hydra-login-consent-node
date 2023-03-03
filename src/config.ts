@@ -363,6 +363,36 @@ const users: Array<User> = [
     }
   },
   {
+    id: 'user-combi',
+    user_id: 'user-combi',
+    salutation: "Herr",
+    bpNumber: '5000203475',
+    roles: ['user-combi'],
+    given_name: 'Eigenwohn',
+    family_name: 'Beihilfe',
+    phone: '123456789',
+    email: 'user-combi@quadrio-dev-foerderlotse.de',
+    ext: {
+      roles: ['user-combi'],
+      bpNumber: '5000203475'
+    }
+  },
+  {
+    id: 'landlord-combi',
+    user_id: 'landlord-combi',
+    salutation: "Herr",
+    bpNumber: '5000203475',
+    roles: ['landlord-combi'],
+    given_name: 'Mietwohn',
+    family_name: 'Beihilfe',
+    phone: '123456789',
+    email: 'landlord-combi@quadrio-dev-foerderlotse.de',
+    ext: {
+      roles: ['landlord-combi'],
+      bpNumber: '5000203475'
+    }
+  },
+  {
     id: 'ute.boex@lra-bt.bayern.de',
     user_id: 'ute.boex@lra-bt.bayern.de',
     salutation: "Frau",
