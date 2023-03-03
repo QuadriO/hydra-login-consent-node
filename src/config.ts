@@ -353,10 +353,10 @@ const users: Array<User> = [
     salutation: "Herr",
     bpNumber: '5000203475',
     roles: ['landlord'],
-    given_name: 'Sach',
-    family_name: 'Bearbeiter',
+    given_name: 'Human',
+    family_name: 'Landlord',
     phone: '123456789',
-    email: 'landlord@quadrio-dev-foerderlotse.de',
+    email: 'human-landlord@quadrio-dev-foerderlotse.de',
     ext: {
       roles: ['landlord'],
       bpNumber: '5000203475'
